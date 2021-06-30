@@ -1,4 +1,5 @@
 print("Age calculator")
+print()
 done = False
 while not done:
     name = input("What is your name: ")
