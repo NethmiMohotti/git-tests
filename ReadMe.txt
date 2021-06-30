@@ -14,12 +14,6 @@
 				userNumber4=12;
 				userNumber5=7;
 				userNumber6=43;
-				userNumber1=parseInt(prompt("Enter the number obtiained for Number 1: "));
-				userNumber2=parseInt(prompt("Enter the number obtiained for Number 2: "));
-				userNumber3=parseInt(prompt("Enter the number obtiained for Number 3: "));
-				userNumber4=parseInt(prompt("Enter the number obtiained for Number 4: "));
-				userNumber5=parseInt(prompt("Enter the number obtiained for Number 5: "));
-				userNumber6=parseInt(prompt("Enter the number obtiained for Number 6: "));
 				
 				
 				
