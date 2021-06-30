@@ -8,14 +8,6 @@
 				
 				
 				
-				userNumber1=12;
-				userNumber2=33;
-				userNumber3=9;
-				userNumber4=12;
-				userNumber5=7;
-				userNumber6=43;
-				
-				
 				
 				
 				
