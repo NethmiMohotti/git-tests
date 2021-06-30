@@ -6,12 +6,6 @@
 				userNumber6=parseInt(prompt("Enter the number obtiained for Number 6: "));
 				
 				
-				
-				
-				
-				
-				
-				
 				document.getElementById("draw").innerHTML = <span>+"lotteryNum1"+</span><span>+"lotteryNum2"+</span><span>+"lotteryNum3"+</span><span>+"lotteryNum4"+</span><span>+"lotteryNum5"+</span><span>+"lotteryNum6"+</span><span>+"lotteryNum7"</span>;
 
 
